@@ -1,0 +1,1428 @@
+Keyword,Engagements,Tweets(unique)
+coronavirus,8417,3601
+virus,3224,1684
+disease,1235,241
+best,844,279
+infection,789,177
+symptoms,722,207
+syndrome,648,97
+kawasaki disease,637,56
+chest pain,544,74
+tag,543,113
+diabetes,504,119
+emergency,433,153
+pneumonia,432,58
+little,425,67
+kawasaki,422,51
+stroke,388,92
+diseases,372,47
+cvd,364,58
+sick,362,121
+transmission,338,119
+sensitivity,338,28
+ill,332,99
+fever,313,42
+dm,309,85
+anxiety,306,81
+pain,302,51
+fatigue,297,42
+trauma,297,65
+forget,294,99
+coronary artery disease,294,53
+ischaemia,287,28
+cancer,260,117
+cervical cancer,259,17
+ai,209,89
+plague,205,14
+ards,197,63
+suffering,197,43
+tired,196,38
+multi,195,56
+mi,194,40
+pathology,193,53
+acute coronary syndromes,190,16
+complication,178,30
+immunodeficiency disorders,178,6
+exposure,172,67
+myocardial injury,170,17
+cut,156,44
+illness,154,72
+thrombosis,145,41
+infections,141,45
+cad,141,25
+critically ill,134,47
+hypertension,130,70
+oncology,130,57
+sad,130,56
+vomiting,130,6
+illnesses,128,24
+myocarditis,128,27
+influenza,127,25
+autoimmune disorders,125,2
+myalgic encephalomyelitis,125,9
+shortness of breath,124,14
+strain,124,20
+blood,123,52
+chronic fatigue syndrome,121,7
+shock,121,35
+hip fracture,118,11
+ischemic stroke,117,7
+black death,115,4
+infectious disease,114,26
+posterior,114,12
+chronic illnesses,114,4
+phobia,112,12
+sudden death,109,4
+damage,109,50
+takotsubo syndrome,109,9
+breathlessness,109,9
+flu,108,58
+emergencies,106,19
+infectious diseases,104,34
+heart disease,103,27
+rbbb,103,6
+exhausted,101,22
+acute pulmonary embolism,101,4
+skin manifestations,101,23
+cross,98,19
+delirium,96,20
+violence,89,31
+heart failure,88,23
+infarct,88,2
+injury,86,26
+inflammation,85,32
+pulmonary embolism,85,17
+card,83,19
+condition,81,29
+depression,81,29
+coagulopathy,79,30
+obesity,78,33
+co-infection,77,18
+suffer,76,28
+coronary thrombosis,75,7
+rp,73,12
+malaria,72,18
+cardiomyopathy,71,3
+heart attack,71,24
+giant,71,13
+rash,71,15
+ha,70,24
+ami,69,13
+pathophysiology,69,36
+thrombus,68,10
+clots,66,17
+progression,66,16
+rashes,65,18
+arrhythmia,65,16
+cytokine storm,65,14
+embolic,64,1
+ischemia,63,22
+severe acute respiratory syndrome,63,9
+cardiovascular disease,61,28
+contracted,61,12
+common cold,61,3
+htn,61,16
+stenosis,60,7
+dementia,58,11
+loss of identity,58,5
+sequelae,58,11
+thrombotic,58,7
+respiratory symptoms,57,7
+wounds,57,3
+nervous,56,9
+sexual assault,56,3
+side effects,55,23
+psychological,54,14
+cannabis,54,11
+block,54,25
+wasting,52,9
+wasted,52,12
+falling,51,10
+smith,50,12
+coronary occlusion,50,3
+mental illness,49,11
+interaction,49,18
+syndromes,49,6
+addiction,48,20
+acute coronary syndrome,48,18
+mass,47,29
+plaque,47,15
+pernio,46,24
+rupture,46,12
+west,46,19
+acute respiratory distress,46,1
+respiratory distress acute,46,1
+ebola,45,18
+hypercoagulability,44,5
+difficulty breathing,44,2
+del,44,19
+pulmonary complications,43,9
+strokes,43,21
+bleeding,43,14
+cardiac disease,43,6
+infectious,42,20
+copd,42,16
+confusion,41,15
+hyper,41,11
+cardiovascular complications,40,12
+confused,40,18
+bite,40,3
+coronary vasospasm,40,3
+dilated cardiomyopathy,39,4
+cardiovascular diseases,39,9
+der,39,10
+aortic stenosis,38,3
+coronary disease,38,14
+coronary artery aneurysms,38,2
+anxious,37,20
+cough,37,23
+explosion,37,3
+cancers,37,10
+curb,36,9
+nightmare,36,12
+viral shedding,36,7
+van,36,9
+pheochromocytoma,36,2
+x-linked agammaglobulinemia,35,2
+immunodeficiency,35,2
+abscence,35,2
+perimyocarditis,34,4
+shocked,34,12
+angina,34,10
+blood clots,33,15
+ph,33,15
+autism,33,7
+venous thromboembolism,33,5
+flushing,33,5
+headaches,32,7
+arrhythmias,32,14
+xenophobia,32,5
+recruitment,31,14
+t2d,31,8
+aids,31,11
+post viral fatigue,31,3
+blocked,31,13
+sob,31,14
+respiratory failure,30,7
+cardiac arrest,30,15
+critical illness,29,12
+dengue,29,9
+acute respiratory distress syndrome,29,7
+cardiotoxicity,29,4
+psych,28,15
+catching,28,15
+eczema,28,8
+du,28,14
+zika,28,13
+asthma,28,5
+interactions,27,11
+gastrinoma,27,2
+cuts,27,20
+clot,27,10
+hyperaesthesia,27,2
+acute appendicitis,27,2
+depressing,27,5
+inflammatory response,27,5
+arrested,26,8
+ts,26,6
+cardiac arrhythmias,26,3
+of disease transmission,26,5
+shop,25,15
+transforming,25,8
+disorders,25,10
+pulmonary complication,25,1
+coronavirus infection,25,12
+skin rashes,25,8
+inv,25,6
+pericardial effusion,24,5
+child abuse,24,4
+hypoxia,24,11
+adverse effects,24,2
+injuries,24,6
+symptoms of depression,24,4
+depression anxiety,24,4
+sepsis,24,16
+chronic illness,24,6
+headache,23,10
+psoriasis,23,11
+heart attacks,23,15
+tb,23,10
+sweet,23,14
+painful,23,15
+quality of life,23,4
+appendicitis,23,5
+imbalance,22,8
+toe in,22,1
+r4,21,1
+anus,21,1
+aches,21,6
+simons,21,1
+recurrent laryngeal nerve injury,21,1
+disease course,21,16
+psyche,21,3
+bad trip,21,3
+goldstein,21,4
+myeloma,21,3
+vt,20,6
+chilblains,20,10
+effusion,20,4
+neurotoxicity,20,13
+suffocate,20,3
+domestic violence,20,9
+dysfunction,20,11
+burn,20,9
+hanging,20,5
+pathogenesis,20,5
+shock syndrome,20,4
+aspergillosis,20,2
+job strain,20,2
+afib,19,9
+sensitive,19,11
+struck,19,6
+thrombi,19,5
+atherosclerosis,19,7
+acute myocardial infarction,19,4
+other disease,19,1
+abdominal pain,19,4
+eds,18,6
+aaa,18,3
+out-of-hospital cardiac arrest,18,9
+hot spots,18,9
+mutants,18,1
+collision,18,5
+chronic disease,18,7
+cardiac symptom,18,1
+traumas,18,6
+epididymitis,18,4
+orchitis,18,4
+infection reactivation,18,1
+edwards,18,5
+heart arrhythmias,17,6
+adverse events,17,5
+anterior,17,9
+fox,17,5
+ra,17,5
+resp,17,6
+dizziness,17,4
+meningococcal disease,17,2
+stiff,17,1
+pulmonary oedema,17,2
+measles,16,6
+skin damage,16,1
+delhi,16,8
+insomnia,16,7
+spots,16,7
+muscle weakness,16,3
+pancreatitis,16,8
+gi symptoms,16,8
+dolor,16,3
+curbing,16,2
+vasospastic angina,16,1
+moral injury,16,3
+aml,16,2
+lupus,15,4
+uc,15,8
+fracture,15,3
+kidney disease,15,4
+blood vessel disease,15,4
+blows,15,4
+restenosis,15,3
+cytokine release syndrome,15,5
+hangs,14,4
+giants,14,10
+supraventricular tachycardias,14,2
+rigor,14,4
+ageusia,14,4
+coronary heart disease,14,6
+myocardial infarction,14,9
+ALZHEIMERS,14,2
+alzheimers disease,14,2
+hyperglycemia,14,4
+dyspnea,14,8
+toxicity,14,3
+acne,14,9
+resolution,14,8
+o a,14,5
+nonsense,14,6
+angioedema,14,6
+stent restenosis,14,3
+brugada syndrome,14,1
+post viral fatigue syndrome,14,1
+other infectious diseases,14,4
+weak,13,8
+coronary artery dissection,13,4
+collapse,13,7
+trigeminal neuralgia,13,3
+unstable angina,13,2
+brain tumors,13,4
+epp,13,2
+infarction,13,7
+uti,13,4
+flood,13,9
+crushing,13,7
+breathless,12,3
+falls,12,9
+strains,12,7
+syncope on exertion,12,1
+groin pain,12,1
+gas,12,10
+concussion,12,7
+autoimmune,12,4
+shocking,12,8
+urticaria,12,4
+dull,12,4
+short-sighted,12,2
+prostate cancer,12,5
+CELIAC,12,3
+celiac disease,12,3
+celiac,12,3
+inflammatory disease,12,6
+wound,12,2
+pulmonary fibrosis,12,4
+nightmares,12,4
+self-harm,12,1
+gastrointestinal symptoms,12,3
+sdh,12,4
+other symptoms,12,5
+coughing,12,4
+dios,12,1
+hd,12,4
+endothelial dysfunction,12,2
+leprosy,12,3
+sigh,11,7
+cardiac complications,11,7
+ulcerated,11,1
+attacked,11,8
+lung inflammation,11,4
+evans,11,6
+burning,11,5
+brain injury,11,8
+cirrhosis,11,5
+exhaustion,11,5
+viral infection,11,8
+behavioral disturbance,11,2
+exposures,11,6
+physical symptoms,11,3
+syncope,11,3
+weakness,11,3
+organ failure,11,3
+suicide attempt,11,2
+nelson,11,1
+abdominal pains,11,1
+myopia,11,2
+diabetic foot ulcer,11,1
+vascular diseases,11,2
+flare,10,5
+dvt,10,7
+acute kidney injury,10,4
+weaknesses,10,4
+swift,10,5
+fitting,10,8
+suffocated,10,2
+preeclampsia,10,4
+cardiac arrhythmia,10,5
+disorder,10,4
+cryptococcal meningitis,10,2
+raised intracranial pressure,10,2
+transformed,10,4
+sickness,10,4
+allergies,10,7
+despair,10,6
+acute mi,10,2
+tiredness,10,1
+toxic shock,10,3
+spell,9,8
+hidradenitis,9,3
+pcp,9,8
+substance use disorder,9,2
+anxieties,9,5
+assault,9,4
+respiratory infections,9,2
+epileptic,9,3
+radiation exposure,9,4
+stent thrombosis,9,3
+angiogenesis,9,3
+chf,9,8
+impairment,9,4
+post icu syndrome,9,3
+drowning,9,6
+shoulder pain,9,2
+ulnar neuropathies,9,2
+implant,9,2
+feline infectious peritonitis,9,1
+fip,9,1
+toxic,9,4
+advanced cancer,9,1
+cll,9,2
+fibromyalgia,9,1
+gastrointestinal bleeding,9,1
+hives,9,2
+chicken pox,9,2
+metabolic syndrome,9,4
+skin symptoms,9,2
+ache,8,3
+blocking,8,6
+infiltrate,8,2
+sneeze,8,4
+staggering,8,5
+stab,8,3
+opacities,8,6
+aortic dissection,8,3
+blocks,8,5
+chronic diseases,8,5
+malignancies,8,4
+livedo racemosa,8,3
+aphasia,8,2
+viral illness,8,4
+sore,8,5
+hemolysis,8,4
+traumatic brain injury,8,3
+myositis,8,3
+blunt trauma,8,1
+insanity,8,3
+chronic lymphocytic leukemia,8,1
+frank,8,2
+function recovery,8,1
+cardiac decompensation,8,1
+lbbb,8,1
+laryngospasm,8,1
+superinfection,8,2
+pseudomonas,8,2
+fatigued,8,1
+short of breath,8,3
+tumor,7,2
+whoops,7,3
+substance abuse,7,2
+pains,7,4
+diarrhea,7,6
+af,7,4
+diabetic foot,7,2
+foot disease,7,2
+earthquake,7,4
+lvh,7,2
+bullying,7,4
+deep vein thrombosis,7,4
+skin lesions,7,4
+side effect,7,5
+depression and suicide,7,4
+opioid addiction,7,2
+relapse,7,4
+dilation,7,2
+opioid use disorder,7,4
+pulmonary hypertension,7,3
+chilling,7,1
+fatty liver disease,7,1
+liver cancers,7,1
+aps,7,4
+hunger,7,3
+blood clotting,7,4
+occluded,7,5
+amaurosis fugax,7,1
+right heart failure,7,4
+liver disease,7,4
+atrial fibrillation,7,5
+transmitted,7,4
+bacterial infection,7,3
+mutation,7,6
+cardiogenic shock,7,2
+rheumatoid arthritis,7,3
+unwell,7,4
+earthquakes,7,3
+coronavirus infections,7,7
+asymptomatic infection,7,3
+anguish,7,4
+hypercoagulable state,7,3
+tensions,7,2
+schultz,7,2
+sts,6,1
+ventricular arrhythmias,6,4
+cyclone,6,2
+pad,6,2
+stretches,6,2
+tolerance,6,3
+fractures,6,1
+shake,6,4
+claps,6,2
+conjunctivitis,6,4
+loss of appetite,6,3
+berlin,6,4
+pleural effusion,6,3
+abuse neglect,6,1
+angst,6,5
+unrest,6,5
+liver diseases,6,1
+melanoma,6,5
+bacterial infections,6,3
+nausea,6,4
+deficiency,6,3
+resolved,6,1
+halo,6,2
+scorpion sting,6,1
+gallstones,6,1
+hypertriglyceridemia,6,1
+altered sensation,6,1
+respiratory infection,6,3
+gastroenteritis,6,1
+chills,6,4
+rigid,6,2
+horton,6,2
+sequela,6,2
+drunk,6,4
+acute hypertrophy,6,1
+myocardial edema,6,1
+amyloid,6,1
+heart rhythm disorders,6,1
+angina symptoms,6,1
+pilocytic astrocytoma,6,1
+cavity,6,1
+benzodiazepine withdrawal,6,1
+manic,6,1
+new onset chest pain,6,1
+scapular pain,6,1
+polio,5,3
+drug interactions,5,2
+tuberculosis,5,2
+autistic,5,3
+settles,5,4
+loss of taste,5,2
+hypertrophic cardiomyopathy,5,2
+myopericarditis,5,1
+coccidioidomycosis,5,2
+tying up,5,1
+malignancy,5,1
+pressure ulcers,5,3
+allergy,5,3
+tension pneumothorax,5,3
+tr,5,4
+staring,5,3
+suffered,5,3
+endo,5,3
+tinnitus,5,4
+bites,5,2
+haas,5,1
+shaking,5,3
+brown,5,2
+heart problems,5,3
+peripheral artery disease,5,3
+ototoxicity,5,2
+yellow fever,5,2
+pneumothorax,5,2
+charm,5,1
+av block,5,1
+acute limb ischemia,5,1
+damages,5,2
+dehydration,5,2
+acute pancreatitis,5,1
+frostbite,5,4
+communicable diseases,5,1
+forgetting,5,1
+clap,5,2
+heart symptoms,5,1
+off-label,5,3
+urinary tract obstruction,5,1
+syphilis,5,2
+premature,5,3
+tsunami,5,4
+respiratory disease,5,2
+lung cancer,5,3
+depressed,5,3
+tornado,5,1
+ruq pain,5,1
+jaundice,5,1
+amnesia,5,1
+osteoporosis,5,3
+rhinovirus,5,1
+amplification,5,1
+coronary artery calcification,5,1
+heart injury,5,1
+type 2 diabetes mellitus,5,2
+persistent sinus bradycardia,5,1
+glaring,5,2
+feel bad,4,3
+atopy,4,2
+neuromyelitis optica spectrum disorder,4,3
+semi,4,3
+electrolyte imbalances,4,1
+insane,4,4
+ins,4,4
+pharyngitis,4,2
+nausea/vomiting,4,2
+infertility,4,3
+std,4,3
+adrenal insufficiency,4,3
+left ventricular noncompaction 2,4,1
+long qt syndrome,4,1
+fibrosis,4,3
+insulin resistance,4,2
+hypoxic,4,2
+eruption,4,4
+gc,4,2
+placental abruption,4,2
+tuberculous,4,1
+chlamydia,4,3
+esrd,4,2
+fragility,4,1
+drug-drug interaction,4,1
+minor,4,4
+vasculitis,4,3
+toe symptoms,4,3
+flu-like symptoms,4,2
+hungry,4,1
+post-viral fatigue syndrome,4,2
+"fatigue syndrome, chronic",4,2
+breast cancer,4,3
+thrombosis; pulmonary,4,2
+kc,4,2
+skin disease,4,2
+fistula draining,4,2
+myalgia,4,3
+acute heart failure,4,3
+lung injury,4,2
+entrapment neuropathies,4,1
+brachial plexopathies,4,1
+neuropathic pain,4,1
+gonorrhea,4,2
+psychomotor impairment,4,2
+hbp,4,1
+sting,4,2
+acute respiratory disease,4,2
+harassment,4,2
+sudden cardiac death,4,3
+skin cancer,4,1
+favism,4,2
+epilepsy,4,3
+binge,4,4
+metastatic cancer,4,1
+torsades de pointes,4,2
+neutropenic fever,4,2
+chilblain,4,2
+proliferation,4,2
+cramping,4,1
+systemic disease,4,2
+PARKINSONS,4,2
+type 2 diabetes,4,1
+sterile,4,3
+piles,4,1
+cholestasis,4,1
+emerging infectious diseases,4,1
+heat,4,4
+infection induced,4,1
+dvts,4,1
+hepatitis,4,1
+acute cholecystitis,4,1
+lymphoma,4,3
+arrythmia,4,2
+coughs,4,3
+assaults,4,1
+prinzmetal angina,4,1
+pvc,4,1
+takotsubo cardiomyopathy,4,2
+hypotension and shock,4,1
+sore throat,3,2
+feeling down,3,1
+adenovirus,3,3
+influenza pneumonia,3,1
+infection in children,3,2
+chill,3,3
+tissue damage,3,2
+bruised,3,3
+smallpox,3,2
+neck pain,3,1
+adenopathy,3,1
+calcification,3,3
+overdose,3,3
+lymphopenia,3,3
+schizophrenia,3,2
+morons,3,1
+septic shock,3,3
+drowned,3,3
+apathy,3,2
+heart diseases,3,3
+circling,3,1
+coagulopathies,3,2
+tense,3,3
+respiratory distress,3,3
+modi,3,2
+arrest,3,2
+purpura,3,2
+blood disorders,3,1
+viral infections,3,2
+mitchell,3,1
+hyperplasia,3,1
+chest discomfort,3,2
+high blood pressure,3,2
+cva,3,3
+miscarriage,3,2
+fevers,3,3
+doe,3,2
+bruises,3,1
+vertigo,3,2
+direct infection,3,2
+hard of hearing,3,2
+skin conditions,3,2
+knockout,3,1
+igg4 related disease,3,1
+coronary arteritis,3,1
+pulmonary edema,3,1
+vasc,3,2
+viral sepsis,3,1
+occlusion coronary,3,2
+obese,3,3
+liver injury,3,3
+occlusion,3,2
+drug overdose,3,1
+acute chest pain,3,1
+not coping,3,1
+hudson,3,1
+rituals,3,1
+ritter,3,1
+excess fluids,3,1
+klebsiella,3,1
+ventilator associated pneumonia,3,1
+antibody dependent enhancement,3,2
+chikungunya,3,3
+thromboembolic events,3,2
+stopped breathing,3,1
+kidney problems,3,1
+meningitis,3,1
+whooping cough,3,1
+ailment,3,2
+greedy,3,3
+lethargy,3,3
+sil,3,3
+strained,3,1
+torsade de pointes,3,3
+atheroma,3,1
+pediatric infectious disease,3,1
+paranoia,3,3
+biphasic disease,3,2
+superinfections,3,2
+multiple sclerosis,3,2
+hematoma intramural,3,1
+vertical transmission,3,2
+toxicities,3,2
+oedema,3,1
+lymphocytic infiltrate,3,1
+myalgias,3,2
+demented,3,1
+mutant,3,2
+pulmonary symptoms,3,2
+PARKINSON'S,3,2
+parkinson's disease,3,2
+discomfort,3,2
+rundown,3,1
+vasoconstriction,3,1
+edema,3,1
+hemophilia,3,2
+mods,3,2
+deluded,3,2
+symptoms in children,3,3
+memory lapses,3,2
+occupational exposure,3,1
+coronary stenoses,3,2
+compassion fatigue,3,3
+hemophagocytic syndrome,3,1
+multi-organ failure,3,1
+lymphadenopathy,3,1
+reciprocating tachycardia,3,1
+thrombocytopenia,3,1
+lung cancers,3,1
+lysis,3,1
+child maltreatment,3,1
+hodgkin lymphoma,3,2
+autoimmune hemolytic anemia,3,2
+hodgkin,3,2
+sighs,3,1
+vitamin d deficiency,3,2
+hyperactive,3,1
+coronary artery vasospasm,3,1
+parkinsons disease,3,1
+cerebrovascular disease,3,1
+cv symptoms,3,1
+thyroiditis,3,1
+stress cardiomyopathy,3,1
+enlargement,3,1
+scars,3,1
+hurricane,3,2
+sexually transmitted diseases,3,1
+herpes zoster,3,1
+oral candidiasis,3,1
+side effects of drugs,3,1
+persistent fever,3,2
+myalgic,3,1
+akinesia,3,1
+asthma copd,3,1
+sprayed,3,2
+deep breath,2,1
+mild depression,2,2
+acute stroke,2,2
+high fever,2,2
+lower respiratory tract infection,2,2
+arthritis,2,2
+sinus tachycardia,2,2
+flashbacks,2,1
+gasping for air,2,1
+dermatologic disease,2,1
+myocardial inflammation,2,2
+SICKLE CELL,2,1
+sickle cell trait,2,1
+thinning,2,2
+scratch,2,2
+menstruation,2,2
+diffuse alveolar damage,2,1
+optic atrophy,2,1
+nonproductive cough,2,1
+disease progression,2,2
+choked,2,1
+pityriasis rosea,2,2
+microangiopathy,2,2
+pneumoniae,2,1
+schistosomiasis,2,1
+asymptomatic infections,2,1
+parkinsonism,2,1
+yelling,2,2
+in-hospital cardiac arrest,2,1
+dermatitis,2,1
+arf,2,1
+rest pain,2,1
+pain toe,2,1
+toe ulcer,2,1
+adverse effect,2,1
+ear pain,2,1
+itp,2,2
+corkscrew esophagus,2,2
+achalasia,2,2
+bedbugs,2,2
+pmr,2,1
+leukocytoclastic vasculitis,2,1
+henoch-schonlein purpura,2,1
+myocardial ischemia,2,2
+chillblains,2,2
+eruptions,2,2
+hypercoagulable,2,2
+cor pulmonale,2,1
+first myocardial infarction,2,1
+epstein,2,1
+runny nose,2,1
+passed out,2,2
+limb ischaemia,2,1
+blood clotting disorders,2,1
+acute abdomen,2,1
+prolactinomas,2,1
+acromegaly,2,1
+back pain,2,1
+cardiac events,2,1
+rem sleep behavior disorder,2,1
+macrovascular disease,2,1
+mutated,2,1
+infertility problem,2,1
+castle,2,1
+microvascular occlusion,2,1
+incompetence,2,2
+bike accident,2,2
+burns,2,2
+acute vision loss,2,2
+chronic heart disease,2,1
+respiratory complications,2,2
+osteomyelitis,2,2
+bacteremia,2,1
+tumorigenesis,2,2
+ailments,2,2
+thromboembolism,2,1
+oa,2,2
+coronary aneurysms,2,2
+clinical findings,2,1
+anovulation,2,1
+metabolic symptoms,2,1
+moron,2,2
+lower respiratory tract infections,2,1
+co-infections,2,1
+mondor,2,2
+vomits,2,1
+spotty,2,1
+deficit,2,1
+hansen,2,1
+intracerebral hemorrhage,2,1
+bad breath,2,2
+coinfections,2,1
+secondary infections,2,1
+ascvd,2,2
+feel tired,2,2
+paraneoplastic syndromes,2,1
+artery disease,2,1
+opacity,2,1
+stable angina pectoris,2,2
+coronary artery perforation,2,1
+latent tb,2,1
+oversleeping,2,2
+mycoplasma,2,1
+bruising,2,2
+hallucinations,2,1
+flank pain,2,1
+secondary infection,2,1
+bends,2,2
+chronic total occlusion,2,2
+the syndrome,2,1
+settle,2,2
+bruce,2,1
+interstitial pneumonia,2,1
+chronic liver disease,2,1
+chest tightness,2,1
+cardiac symptoms,2,1
+perniosis,2,2
+cld,2,2
+angina pectoris,2,1
+coronary stenosis,2,2
+eye pain,2,1
+vicarious trauma,2,2
+lupus pneumonitis,2,1
+sleeping sickness,2,1
+trypanosomiasis,2,1
+high-risk pregnancies,2,1
+suffocating,2,1
+mvp,2,2
+epiphenomenon,2,2
+diabetic ketoacidosis,2,1
+connective tissue diseases,2,2
+invasive pulmonary aspergillosis,2,1
+miserable,2,1
+febrile,2,2
+hesitancy,2,2
+lymphocytopenia,2,1
+acute mountain sickness,2,1
+cps,2,1
+substance use,2,2
+stoned,2,1
+strep,2,2
+amebiasis,2,1
+dle,2,1
+infectious mononucleosis,2,1
+giardiasis,2,1
+mdr tb,2,1
+hive,2,2
+dry cough,2,1
+acute intoxication,2,1
+pulmonary emboli,2,1
+bucking,2,1
+coronary spasm,2,2
+breathing symptoms,2,1
+virus disease,2,2
+see things,2,1
+exertional,2,1
+exertional dyspnea,2,1
+wolff-parkinson-white (wpw) syndrome,2,1
+syndrome w,2,1
+ophthalmoparesis,2,2
+cranial nerve palsy,2,2
+febrile illness,2,2
+remission,2,1
+h5n1,2,2
+posterior hip dislocation,2,1
+tss,2,1
+dysentery,2,1
+anaemia,2,1
+stunting,2,1
+charcot's joint,2,1
+tooth disease,2,1
+anaphylaxis,2,2
+androgenetic alopecia,2,2
+stereotypes,2,1
+ileus,2,1
+mesenteric ischemia,2,1
+portal hypertensive gastropathy,2,1
+bleed,2,1
+subarachnoid hemorrhage,2,2
+postviral fatigue,2,1
+rust,2,1
+acute psychosis,1,1
+dummies,1,1
+neutropenia,1,1
+bullies,1,1
+sleepwalking,1,1
+of liver injury,1,1
+cholera,1,1
+delusional,1,1
+plagues,1,1
+acute infection,1,1
+coronary aneurysm,1,1
+depolarization,1,1
+periodontal disease,1,1
+mental trauma,1,1
+hangover,1,1
+eastern equine encephalitis (eee),1,1
+autoimmune encephalitis,1,1
+hanta virus,1,1
+apathetic,1,1
+generalised abdominal pain,1,1
+no respiratory symptoms,1,1
+obsession,1,1
+nephropathy,1,1
+aortic dissections,1,1
+forbes,1,1
+illicit drug use,1,1
+kidney failure,1,1
+periodontitis,1,1
+lrti,1,1
+traffic accidents,1,1
+pulmonary thrombosis,1,1
+hypertensive disorder,1,1
+gvhd,1,1
+hypertensive urgency,1,1
+rsi,1,1
+drown,1,1
+myocardial infarctions,1,1
+occlusions,1,1
+mimicry,1,1
+acute urticaria,1,1
+diabetes mellitus,1,1
+dysarthria,1,1
+acute infarct,1,1
+conn,1,1
+stabbing,1,1
+left dominant coronary system,1,1
+right dominant coronary system,1,1
+expressive aphasia,1,1
+petechiae,1,1
+cardiomyopathies,1,1
+minor bleed,1,1
+choking,1,1
+prediabetes,1,1
+flatulence,1,1
+spasms,1,1
+foot swelling,1,1
+mugs,1,1
+right iliac fossa mass,1,1
+pulmonary involvement,1,1
+heart rupture,1,1
+hemopericardium,1,1
+urticarial,1,1
+livedo reticularis,1,1
+vasculopathy,1,1
+food allergy,1,1
+blood disease,1,1
+flush,1,1
+sprays,1,1
+diabetic retinopathy,1,1
+softening,1,1
+bald,1,1
+vanity,1,1
+pricks,1,1
+frenzy,1,1
+acute cor pulmonale,1,1
+magical thinking,1,1
+burned,1,1
+st segment elevation myocardial infarction,1,1
+cardiac death,1,1
+eye injury,1,1
+car accident,1,1
+encephalitis,1,1
+acute necrotizing hemorrhagic encephalopathy,1,1
+hemophagocytic lymphohistiocytosis,1,1
+end stage heart failure,1,1
+broken heart syndrome,1,1
+emotional stress,1,1
+heterotopic ossification,1,1
+heave,1,1
+postpartum haemorrhage,1,1
+right bundle branch block,1,1
+global hypokinesis,1,1
+anomalous left coronary artery from the pulmonary artery,1,1
+bully,1,1
+spencer,1,1
+cardiovascular injury,1,1
+eye disease,1,1
+inflammation of the mouth,1,1
+bucks,1,1
+malaise,1,1
+mea,1,1
+neurological symptoms,1,1
+vomit,1,1
+dawson,1,1
+hysteria,1,1
+a o,1,1
+short of breath on exertion,1,1
+post-exertional malaise,1,1
+skin allergy,1,1
+ent problems,1,1
+hemorrhage,1,1
+marion,1,1
+pimples,1,1
+lung infection,1,1
+coma,1,1
+pain in back,1,1
+infection clinical,1,1
+neuralgia,1,1
+metabolic acidosis,1,1
+grover,1,1
+tubular necrosis,1,1
+heart diseases in pregnancy,1,1
+infiltrates,1,1
+weil,1,1
+post traumatic stress disorder,1,1
+hay fever,1,1
+bronchiolitis,1,1
+tick bite,1,1
+tunnel vision,1,1
+tick-borne diseases,1,1
+tickborne diseases,1,1
+anaplasmosis,1,1
+babesiosis,1,1
+ehrlichiosis,1,1
+rocky mountain spotted fever,1,1
+polyneuritis cranialis,1,1
+adhesion,1,1
+"disease, heart",1,1
+olan,1,1
+founders,1,1
+noncommunicable disease,1,1
+sams,1,1
+beard,1,1
+diarrhoea,1,1
+scurvy,1,1
+episodic tachycardia,1,1
+anhedonia,1,1
+asthmatic,1,1
+g6pd deficiency,1,1
+positional vertigo,1,1
+halitosis,1,1
+zoonoses,1,1
+premature atherosclerosis,1,1
+pre-syncope,1,1
+no new symptoms,1,1
+metastasized,1,1
+ihd,1,1
+worried well,1,1
+domestic abuse,1,1
+beigel,1,1
+rheumatic disease,1,1
+degenerate,1,1
+black deaths,1,1
+pseudofolliculitis barbae,1,1
+schmitz,1,1
+nauseated,1,1
+contact dermatitis,1,1
+bruxism,1,1
+hsp,1,1
+recurrence,1,1
+pericarditis,1,1
+biliary disease,1,1
+psychological stress,1,1
+psychological distress,1,1
+hidradenitis suppurativa,1,1
+alcohol withdrawal,1,1
+plaque psoriasis,1,1
+cardiovascular problems,1,1
+neurological disorders,1,1
+bleeds,1,1
+cysts,1,1
+acute cardiovascular disease,1,1
+drug addiction,1,1
+terminal disease,1,1
+acid base disorders,1,1
+multiorgan failure,1,1
+traumatic brain injuries,1,1
+high risk pregnancies,1,1
+terrorism,1,1
+gunshot,1,1
+mouse model,1,1
+throw up,1,1
+medically unexplained symptoms,1,1
+diabetes related complications,1,1
+thanatophobia,1,1
+mental stress,1,1
+overdoses,1,1
+chest pains,1,1
+bronchial breath sounds,1,1
+compression atelectasis,1,1
+not feeling well,1,1
+familial hypercholesterolemia,1,1
+atherosclerotic cardiovascular disease,1,1
+exercise-induced asthma,1,1
+sleep apnea,1,1
+duodenal diverticulum,1,1
+panic attack,1,1
+artery injury,1,1
+breathing difficulty,1,1
+tao,1,1
+geographic tongue,1,1
+clavicle fracture,1,1
+neurological disorder,1,1
+mf,1,1
+bronchitis,1,1
+myocardial necrosis,1,1
+adverse event,1,1
+taste loss,1,1
+show fever,1,1
+brain damage,1,1
+rlq pain,1,1
+folate deficiency,1,1
+condensation,1,1
+pass out,1,1
+hearing impaired,1,1
+hydrocephalus,1,1
+premature birth,1,1
+throat sore,1,1
+myocardial dysfunction,1,1
+recurrences,1,1
+skin cancers,1,1
+glaucoma,1,1
+skin disorders,1,1
+cognitive decline,1,1
+sneezing,1,1
+drink driving,1,1
+multi organ failure,1,1
+erythema multiforme,1,1
+fear and anxiety,1,1
+cannabis use,1,1
+torus,1,1
+cerebrovascular dis,1,1
+cerebrovascular disorders,1,1
+clinical finding,1,1
+egg allergy,1,1
+nasal bleeding,1,1
+bleeding gums,1,1
+orf,1,1
+ectopic pregnancies,1,1
+muscular dystrophies,1,1
+pms,1,1
+basal cell carcinoma,1,1
+coronary artery diseases,1,1
+nephrotic syndrome,1,1
+prosopagnosia,1,1
+genetic disease,1,1
+weed,1,1
+thiamine deficiency,1,1
+copper deficiency,1,1
+out-of-hospital cardiac arrests,1,1
+pink eye,1,1
+lung disease,1,1
+pericarditis constrictive,1,1
+effusive pericarditis,1,1
+myxoma,1,1
+bending,1,1
+infectious process,1,1
+gee,1,1
+lyme disease,1,1
+hyperthyroidism,1,1
+periodic paralysis,1,1
+femur fracture,1,1
+sinus tach,1,1
+impotent,1,1
+increased blood pressure,1,1
+vascular dementia,1,1
+dandruff,1,1
+mole,1,1
+invasive candidiasis,1,1
+haematological malignancy,1,1
+pierson,1,1
+caa,1,1
+idiocy,1,1
+coinfection,1,1
+secondary bacterial pneumonia,1,1
+ks,1,1
+anal pain,1,1
+perianal mass,1,1
+paf,1,1
+coronary spastic angina,1,1
+hoarseness,1,1
+vascular inflammation,1,1
+acute infections,1,1
+pinch,1,1
+bloody sputum,1,1
+migraines,1,1
+initial encounter,1,1
+acute transverse myelitis,1,1
+oxidative stress,1,1
+diastolic dysfunction,1,1
+vasospasm,1,1
+brain dead,1,1
+pyelonephritis,1,1
+other viral pneumonia,1,1
+vascular complications,1,1
+"failure, heart",1,1
+osteoporosis risk,1,1
+pressure sores,1,1
+moore,1,1
+benson,1,1
+psychiatric symptoms,1,1
+central nervous system disease,1,1
+congenital syphilis,1,1
+aortic regurgitation,1,1
+metabolic disease,1,1
+coronary artery aneurysm,1,1
+coronary artery spasm,1,1
+epistaxis,1,1
+infiltrated,1,1
+hair loss,1,1
+crabs,1,1
+impaired driving,1,1
+skull fractures,1,1
+tongue swelling,1,1
+gasp,1,1
+carpenter,1,1
+acute renal failure,1,1
+renal failure acute,1,1
+failure acute,1,1
+acute liver failure,1,1
+respiratory distress syndrome acute,1,1
+syndrome acute coronary,1,1
+acute lymphoid leukemia,1,1
+leukemia acute myelogenous,1,1
+acute myelogenous leukemia,1,1
+leukemia acute,1,1
+acute sinusitis,1,1
+syndromes viral,1,1
+biting,1,1
+staggered,1,1
+neurological complication,1,1
+cerebral haemorrhage,1,1
+sinus infection,1,1
+alcohol intoxication,1,1
+cellulitis,1,1
+electrolyte disturbances,1,1
+self harm,1,1
+attempted suicide,1,1
+rhabdomyolysis,1,1
+multiple myeloma,1,1
+aidp,1,1
+hair falling,1,1
+falling out,1,1
+granuloma,1,1
+bradley,1,1
+mediastinal paraganglioma,1,1
+chafing,1,1
+brain diseases,1,1
+thromboses,1,1
+critical limb ischemia,1,1
+hyperfibrinolysis,1,1
+blood cancer,1,1
+strumpell disease,1,1
+ANKYLOSING,1,1
+spondylitis,1,1
+high cholesterol,1,1
+cerebrovascular diseases,1,1
+echolalia,1,1
+viral myocarditis,1,1
+chronic pain,1,1
+brbpr,1,1
+hodgkin's disease,1,1
+scar,1,1
+sighing,1,1
+ventricular septal rupture,1,1
+violent,1,1
+coronary restenosis,1,1
+fibrin deposition,1,1
+embolism,1,1
+withdrawal symptoms,1,1
+kounis syndrome,1,1
+neuromuscular disorders,1,1
+hypercoagulation,1,1
+psychotic disorder,1,1
+glioblastoma,1,1
+hypochondria,1,1
+spasm,1,1
+progressive respiratory failure,1,1
+ca prostate,1,1
+pot,1,1
+torn,1,1
+cranial neuropathies,1,1

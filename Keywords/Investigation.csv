@@ -1,0 +1,534 @@
+Keyword,Engagements,Tweets(unique)
+study,2438,517
+research,1668,562
+studies,914,126
+test,758,223
+tests,692,141
+cells,609,43
+diagnosis,597,104
+trial,563,163
+swab,502,53
+simulations,496,18
+panel,356,90
+simulation,313,43
+analysis,284,86
+radiology,270,68
+screenings,255,19
+clinical trials,254,39
+abo blood group,254,16
+cancer screenings,253,17
+normalize,232,11
+rt-pcr,225,17
+serology tests,217,8
+hearing,168,66
+imaging,161,65
+section,135,33
+volume,134,38
+coronary angiogram,127,22
+labs,118,37
+angio,111,9
+troponin,109,13
+activity,106,30
+diagnostic tests,104,13
+culture,103,31
+observational study,102,23
+2b,101,7
+medical research,98,12
+diagnostic test,98,6
+paradigm,96,12
+cardiovascular imaging,95,7
+eng,88,7
+diagnosed,85,26
+observations,82,20
+clotting,82,11
+immunology,80,35
+randomized clinical trial,75,11
+observational,72,17
+interventional,69,24
+cardiac monitoring,67,6
+screen,65,24
+randomized,62,28
+determination,62,4
+teller,62,10
+step testing,60,1
+microbiology,57,10
+biomedical research,55,8
+antibody negative,54,5
+antibody testing,51,22
+closure,50,16
+hematology,49,14
+balance,48,24
+chest ct,48,6
+clinical trial,46,23
+blood group type,46,2
+1-2,45,7
+angiography,45,9
+false negative,44,9
+stratification,44,7
+2-3,42,8
+coronary angiography,42,20
+serology,42,17
+ultrasound,40,20
+susceptible,40,12
+lung function,40,1
+cockroach,40,3
+retrospective,39,6
+prospective,39,13
+multimodality,39,3
+data collection,38,13
+research projects,38,6
+clarity,38,14
+bladder scan,37,7
+diagnostic,36,19
+scan,36,8
+ct scan,36,6
+lv wall motion,36,2
+outcomes research,36,4
+cancer screening,35,5
+antibody tests,34,28
+doppler,34,3
+case series,34,12
+research survey,34,5
+research project,33,6
+study design,33,10
+raw,32,5
+autopsies,32,11
+nasopharyngeal swab,32,8
+d-dimer,31,12
+dx,30,15
+endoscopy,30,6
+echocardiography,29,12
+delphi study,29,4
+assay,29,6
+clinical study,29,8
+nicotine,27,7
+cxr,26,13
+bacteria,26,11
+telemetry,26,3
+na,25,15
+masking,25,8
+sounding,25,7
+ecgs,25,7
+resistant,25,8
+clinical research,24,5
+dog,23,16
+complement,23,10
+curated,23,11
+index,23,9
+vaccine development,22,16
+antibody test,22,15
+peritoneal fluid,22,1
+brain mri,22,2
+cat,21,9
+genotype,21,1
+retrospective study,21,5
+postmortem,21,5
+embed,21,3
+lab tests,21,3
+package,20,11
+masked,20,9
+preserved,19,4
+matched,19,10
+x-rays,18,8
+autopsy,18,15
+experiment,18,8
+duke,18,3
+angiogram,18,8
+metaanalysis,18,5
+5-10,18,10
+modeling,18,6
+pet,17,7
+lung ultrasound,16,4
+protein,16,13
+research study,16,6
+unaware,16,6
+clark,16,1
+epps,16,1
+label,15,8
+diagnoses,15,6
+observation,15,9
+pragmatic trial,15,1
+embedded,14,7
+biopsy,14,7
+exercise stress test,14,2
+apache ii score,14,3
+validity,13,6
+mar,13,3
+verification,13,5
+collaborative study,13,1
+ct angiography,13,6
+fungi,13,1
+diagnosing,13,8
+epidemiologic study,13,4
+research agenda,13,1
+lipids,13,4
+seroprevalence,12,6
+diagnose,12,7
+coagulation,11,9
+serological tests,11,2
+coronary ct,11,4
+angiography procedure,11,1
+data reporting,11,2
+crowd sourcing,11,2
+rt pcr,10,2
+national survey,10,7
+prospective study,10,2
+antibody response,10,3
+hybrid,10,3
+radiation oncology,10,3
+pulse oximetry,10,3
+inquiry,9,3
+forensic autopsy,9,2
+expanded access,9,2
+biopsies,9,5
+electrophysiology,9,3
+pilot study,9,3
+ver,9,2
+mammogram,9,1
+antigen test,9,2
+haematology,9,3
+false negatives,8,4
+fertility,8,7
+data report,8,1
+cardiac ultrasound,8,3
+low-dose,8,4
+test results,8,6
+shadowing,8,3
+crowdsourcing,8,4
+genome-wide association studies,8,1
+pain research,7,6
+active control,7,1
+randomized clinical trials,7,3
+lymphocytes,7,2
+phase 2,7,6
+blood test,7,3
+tat,7,2
+lab findings,7,3
+scans,7,5
+matching,7,4
+cholesterol,7,5
+electrocardiogram,7,2
+research priorities,7,2
+pap tests,7,1
+placebo-controlled,6,6
+phase 3,6,6
+extraction,6,2
+cardiac troponin,6,2
+analyzed,6,5
+abo blood type,6,1
+genome-wide association study,6,2
+use studies,6,3
+experimentation,6,3
+cellular,6,4
+high sensitivity,6,3
+stress test,6,2
+transesophageal echocardiography,6,2
+urine drug screen,6,1
+goat,5,2
+phase 1,5,5
+experiments,5,3
+flash,5,2
+c-reactive protein,5,1
+validation,5,1
+tct,5,5
+colonoscopies,5,2
+bx,5,3
+nuclear medicine,5,4
+impedance testing,5,1
+calprotectin,5,1
+pet scan,5,3
+scientific research,5,3
+differential diagnosis,5,2
+bronchoscopy,5,3
+platelet count,5,1
+intermediate,5,4
+patient selection,5,2
+alk phos,5,1
+prospective cohort study,5,2
+health screening,5,2
+stool pcr,5,1
+pacemaker,4,3
+blood tests,4,4
+pap smears,4,1
+mammograms,4,1
+blasts,4,3
+acid,4,3
+platelets,4,3
+galectin-3,4,1
+surveillance program,4,3
+laparoscopy,4,4
+coronary angiographies,4,1
+stress tests,4,2
+nickel,4,3
+basic science,4,2
+upper gi endoscopy,4,1
+blood alcohol level,4,2
+epidemiological study,4,1
+laparoscopic,4,2
+exercise ecg,4,4
+work up,4,2
+therapeutic research,4,2
+inventory,4,2
+phenotype,4,2
+abdominal imaging,4,1
+vaccine research,4,1
+target cells,4,2
+left eye,4,1
+disease early detection,4,1
+early detection,4,1
+formulation,3,2
+neutralizing antibodies,3,3
+crystals,3,2
+statistical analysis,3,3
+heart monitoring,3,2
+computed tomography,3,3
+sequencing,3,2
+positive antibody,3,2
+computed tomography angiography,3,2
+stains,3,3
+urine test,3,1
+optical coherence tomography,3,1
+stain,3,1
+mouse,3,1
+post-mortem examination,3,1
+test sensitivity,3,1
+genetic engineering,3,3
+human cells,3,3
+neutralization,3,2
+skin exam,3,2
+cancer research,3,3
+sampling,3,3
+pig,3,1
+standardization,3,2
+hepatitis b antibody,3,2
+supportive care,3,3
+research grant,3,2
+critique,3,2
+real-time pcr,3,1
+meta-analysis,3,2
+seeding,3,2
+cardiac monitor,3,2
+antibody studies,3,3
+nasal swab,3,2
+igm positive,3,1
+igg level,3,1
+serology test,3,2
+modality,3,3
+ct scans,3,2
+new target,3,2
+spect,3,2
+logistic regression,3,1
+ax,3,1
+blood group,3,3
+phase 4,3,2
+therapeutic trials,3,1
+ejection fraction,3,3
+research activities,3,1
+mycobacterium tuberculosis,3,2
+interleukin 6,3,1
+dermoscopy,3,1
+biostatistics,3,2
+dilution,2,1
+drug discovery,2,2
+total immunoglobulin,2,1
+immunoglobulin tests,2,1
+dilutions,2,1
+immunoglobulin m,2,1
+slit lamp examination,2,1
+pcr positive,2,1
+antibody study,2,2
+stool test,2,2
+nursing research,2,1
+molecular imaging,2,1
+medical imaging,2,2
+hemodynamic,2,1
+an autopsy,2,2
+neuroimaging,2,2
+critiques,2,2
+pet imaging,2,1
+erg,2,2
+vep,2,2
+functional assessment,2,1
+decipher,2,1
+horse,2,2
+multicentre trial,2,2
+consumer survey,2,1
+experimenting,2,2
+enzyme-linked immunosorbent assay,2,2
+wound culture,2,1
+carbon dioxide,2,1
+mri spine,2,1
+erp,2,2
+genetic analysis,2,2
+iterative reconstruction,2,1
+monocytes,2,1
+remote consultation,2,1
+c4d,2,1
+thaw,2,1
+rtpcr,2,2
+reflexes,2,2
+nasopharyngeal swab test,2,1
+blood draws,2,2
+agglutination,2,1
+retrospective cohort study,2,1
+blinded,2,2
+diagnostic testing,2,2
+upper gi,2,2
+calculus,2,2
+gtt,2,2
+medical decision making,2,1
+sampled,2,1
+pain assessment,2,1
+neutrophils,2,1
+research techniques,2,1
+o2 saturation,2,1
+egd,2,1
+blood groups,2,2
+shaving,2,1
+laboratory testing,2,1
+phase 2 study,2,1
+five to ten,2,1
+tunneled,2,1
+self-report,2,2
+chest imaging,2,1
+pairing,2,2
+genetic disorders,2,1
+diabetology,2,1
+sigmoidoscopy,2,1
+ambulatory monitoring,2,1
+renal function,2,1
+endoscopic,2,1
+epidemiologic research,2,1
+antigen testing,1,1
+dose escalation,1,1
+non-hdl cholesterol,1,1
+diagnostic assessment,1,1
+research studies,1,1
+early detection study,1,1
+hct,1,1
+antibody titres,1,1
+q waves,1,1
+double blind,1,1
+electrocardiography,1,1
+tau,1,1
+immunoglobulins,1,1
+oncotype dx,1,1
+histology,1,1
+heinz bodies,1,1
+3d ct,1,1
+brain ct scan,1,1
+drug testing,1,1
+developmental therapeutics,1,1
+2a,1,1
+igg positive,1,1
+work-up,1,1
+triglycerides,1,1
+serotonin level,1,1
+preclinical studies,1,1
+scanned,1,1
+discontinuation,1,1
+imaging technique,1,1
+photoacoustic imaging,1,1
+health screenings,1,1
+non-inferiority trial,1,1
+cr,1,1
+neut,1,1
+preclinical testing,1,1
+controlled study,1,1
+double-blinded,1,1
+sonography,1,1
+mean platelet volume,1,1
+re-exploration,1,1
+pharmacovigilance,1,1
+lung ct,1,1
+lactoferrin,1,1
+ptc,1,1
+human study,1,1
+disease screening,1,1
+genome sequencing,1,1
+cocaine,1,1
+reverse genetics,1,1
+tlc,1,1
+drug study,1,1
+casts,1,1
+blood sugar,1,1
+illumination,1,1
+"safety, blood",1,1
+msp,1,1
+phylogenetics,1,1
+macrophages,1,1
+nottingham,1,1
+research funding,1,1
+lab testing,1,1
+non-randomized clinical trial,1,1
+follow up studies,1,1
+coag,1,1
+tuberculosis test,1,1
+research data,1,1
+probing,1,1
+birch,1,1
+molecular diagnostics,1,1
+brain scans,1,1
+enzyme testing,1,1
+screening questionnaire,1,1
+fractionation,1,1
+computational,1,1
+coronariography,1,1
+matched case-control studies,1,1
+helical ct,1,1
+percussion,1,1
+analytical,1,1
+prevention trial,1,1
+sensitivity tests,1,1
+scanning,1,1
+mammography,1,1
+microbiota,1,1
+hiv positive,1,1
+ct abdomen,1,1
+sniff test,1,1
+ldl cholesterol,1,1
+seroepidemiological study,1,1
+experimental study,1,1
+myeloperoxidase,1,1
+cardiac troponins,1,1
+fetal monitoring,1,1
+antibody test positive,1,1
+cell numbers,1,1
+longitudinal studies,1,1
+serology positive,1,1
+radiography,1,1
+contraction stress test,1,1
+thiamine,1,1
+microscopy,1,1
+ambulatory cardiac monitoring,1,1
+cell cultures,1,1
+qualitative study,1,1
+culture negative,1,1
+teleconsultations,1,1
+ultrasounds,1,1
+normalization,1,1
+phlebotomy,1,1
+hiv testing,1,1
+research grants,1,1
+pyruvate,1,1
+rbc count,1,1
+auscultation,1,1
+human cell,1,1
+cell culture,1,1
+isolation a,1,1
+sugars,1,1
+thromboplastin,1,1
+aptt,1,1
+thromboelastogram,1,1
+ct lung,1,1
+lung scans,1,1
+epidemiological studies,1,1
+intravascular ultrasound,1,1
+ultrasound guidance,1,1
+antibodies positive,1,1
+transthoracic echocardiogram,1,1
+outpatient monitoring,1,1
+policy research,1,1
+normalized,1,1
+oxygen saturation,1,1
+dynamic simulation,1,1

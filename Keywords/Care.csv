@@ -1,0 +1,1014 @@
+Keyword,Engagements,Tweets(unique)
+medical,3909,987
+healthcare,3030,1032
+virtual,3008,757
+quarantine,2092,1448
+surgery,1905,276
+treatment,1496,325
+cardiology,1482,578
+hospital,1333,435
+nursing,952,230
+pediatrics,876,171
+hospitals,807,260
+light,801,108
+public health,768,193
+guidance,744,153
+telehealth,696,223
+change,682,211
+discussion,681,195
+vaccine,660,229
+est,625,148
+health care,574,177
+medical school,536,80
+american heart association,536,25
+challenges,478,138
+telemedicine,461,178
+application,428,83
+store,412,36
+pulse,409,32
+prevention,362,78
+treatments,361,60
+surgical,355,96
+monitor,334,50
+visit,332,117
+visits,315,75
+med school,290,59
+exam,277,69
+place,269,107
+advice,268,109
+life support,268,5
+clinics,267,75
+risk assessment,261,14
+bls,259,5
+services,251,102
+treatment protocol,242,14
+critical care,242,58
+genetics,235,28
+temperature,228,27
+screening,224,53
+overlapping,224,3
+lab,218,86
+therapies,217,38
+demand,211,70
+answer questions,210,8
+epidemiology,209,151
+rounds,203,82
+primary care,201,55
+exercise,196,49
+extracorporeal membrane oxygenation,191,9
+clinic,188,87
+therapeutics,178,18
+patient care,175,58
+reported,175,67
+prepare,173,56
+isolation,172,71
+ecmo,167,33
+double lung transplant,166,14
+reporting,161,59
+elective surgery,155,29
+iv,154,24
+therapy,154,48
+registration,145,40
+evaluate,145,21
+healthcare system,143,59
+medical schools,141,28
+prescriptions,139,24
+anticoagulation,130,37
+orthopedics,130,19
+coronary arteries,130,14
+mood,130,18
+discussions,126,46
+delivery,126,50
+lung transplant,126,7
+beach,126,11
+nursing homes,123,39
+neurosurgery,122,50
+surgery:,120,18
+intubation,119,33
+diet,117,25
+admissions,117,27
+contact tracing,116,66
+surveillance,116,33
+wards,116,32
+physical,114,52
+transplant,113,28
+chronic,112,36
+retraction,111,28
+implantation,110,8
+rehab,104,23
+detection,101,24
+thrombectomy,101,4
+anesthesia,99,30
+in hospital,98,28
+point-of-care,98,5
+procedures,91,46
+triage,91,36
+spirituality,90,1
+admit,89,25
+interventions,88,32
+assessment,86,33
+pre-registration,86,9
+collect,85,17
+extracorporeal membrane oxygenation (ecmo),82,3
+discharge,81,27
+evaluation,80,20
+pharmacy,80,22
+treated with,78,19
+post-exposure prophylaxis,76,4
+prophylaxis,74,20
+caring for the dying,73,5
+consultations,72,14
+hospice,71,19
+intervention,70,24
+institution,70,34
+repair,69,10
+inpatient treatment,69,2
+clinical management,69,15
+extubated,68,12
+packed,67,20
+touch,66,32
+demanding,65,9
+peeps,65,16
+monitoring,65,33
+suicide prevention,65,3
+dialysis,64,17
+laboratory,64,11
+nursing home,62,31
+therapeutic,62,19
+resuscitation,59,15
+blood pressure,59,11
+peer support,59,6
+phoenix,58,12
+follow up,57,22
+medicare,57,23
+surgeries,56,24
+mechanical ventilation,56,13
+compassionate use,55,9
+applications,55,25
+shelters,55,9
+assist,54,22
+rx,54,15
+consult,54,17
+palliative care nursing,52,12
+palliative care,52,19
+admission,52,17
+rehabilitation,51,22
+extubation,51,11
+measured blood pressure,51,4
+social determinants of health,50,13
+cardiac surgery,50,21
+classes,49,25
+surgical mask,49,9
+health services,49,10
+admitted,48,20
+investigation,48,18
+emergency department,48,9
+5 minutes,47,19
+feeding,47,9
+urgent care,46,6
+donation,46,20
+long-term care,46,7
+repairs,45,2
+placebo,43,17
+administration,42,27
+documenting,42,15
+bathed,42,3
+health care systems,41,11
+cutting,41,14
+expressions,40,3
+consultation,39,5
+chemo,39,12
+contacts,38,14
+incision,38,4
+detected,38,9
+referrals,38,7
+percutaneous coronary intervention,38,14
+mobilization,37,6
+peer review,37,21
+pharmaceutical,36,12
+end of life care,36,5
+"services, health",36,4
+discharged,35,17
+registered,35,17
+gallbladder surgery,34,2
+ventilation,33,24
+shot,33,16
+documented,33,5
+intensive care,33,12
+monitor patients,33,2
+blood banks,33,3
+vaccination,32,14
+thoracic surgery,32,5
+elective surgeries,31,10
+laparoscopic surgery,31,2
+admitted to,31,16
+prescribing,31,16
+prone positioning,31,7
+bolus,31,3
+vision,30,15
+demands,30,7
+pre-exposure prophylaxis,30,3
+wash your hands,30,13
+crush,29,7
+infection control,29,11
+cancer care,29,13
+drill,29,7
+quality care,28,5
+stabilization,28,9
+community hospital,28,4
+standard of care,27,11
+advice to,27,10
+rural hospitals,27,10
+radiation,27,10
+peer reviewed,27,16
+perfusion,26,7
+cold,26,12
+hospital admission,26,10
+drug repurposing,26,7
+balloon,26,14
+exercises,26,9
+step up,26,10
+document activities,26,3
+health insurance,25,8
+ex,25,13
+appearance,25,6
+3m,25,5
+social care,25,5
+community resources,25,1
+hospitalizations,24,10
+prescribed,24,12
+medical center,24,12
+emergency departments,24,4
+obstetrics,23,12
+emergency room,23,10
+resection,23,4
+psychiatric hospitals,23,2
+fee for service,23,3
+enlarged,23,1
+goals of care,22,6
+consults,22,9
+cancer treatment,22,5
+abdominal surgery,22,4
+mitral valve replacement,22,1
+general surgery,22,4
+mental health care,22,5
+rural hospital,22,6
+regimen,21,8
+yoga,21,10
+admits,21,5
+reframing,21,2
+lifesaving,21,9
+immunomodulation,21,3
+aged care,21,4
+removal,21,6
+injection,20,4
+noninvasive ventilation,20,2
+revascularization,20,5
+healthcare systems,20,8
+acute care,20,10
+distraction,20,8
+induction,20,7
+operating room,20,4
+trauma center,20,2
+end-of-life care,20,2
+turnover,19,6
+care delivery,19,5
+mile,19,11
+psychotherapy,19,7
+bifurcation,19,5
+tamponade,18,5
+compression,18,2
+ambulatory,18,7
+disinfection,18,8
+stenting,18,5
+encounter,18,4
+shortening,17,6
+replacement,17,7
+skin care,17,2
+hospital admissions,17,9
+debridement,17,2
+skin graft,17,2
+coronary angioplasty,17,7
+mobilizing,17,6
+hospitalization,17,13
+labor and delivery unit,17,1
+harm reduction,17,5
+diagnostic services,17,3
+reintroduction,17,5
+creation,17,8
+prognosis,16,8
+knee replacements,16,2
+cholecystectomy,16,2
+assessments,16,6
+angioplasty,16,4
+operation,16,11
+infection prevention,16,10
+enrollment,16,10
+world health organization,16,11
+surgical service,16,1
+a surgical mask,16,6
+hemostasis,16,4
+tracheostomy,15,8
+biomed,15,6
+examinations,15,3
+boehringer ingelheim,15,1
+immunotherapy,15,6
+fecal transplantation,14,2
+cardiovascular care,14,8
+heart transplant,14,11
+university hospital,14,4
+drug therapies,14,4
+posterolateral thoracotomy,14,1
+decision making support,14,1
+bifurcations,14,2
+reassurance,13,4
+placed,13,6
+tens,13,7
+bridge,13,8
+stellar,13,8
+hospital care,13,7
+bcg vaccination,13,2
+mechanical,13,8
+palliative,13,6
+shots,13,11
+balloon angioplasty,13,2
+bone marrow transplant,13,1
+mimic,12,3
+fracture care,12,4
+psychiatric,12,8
+revised,12,6
+clearance,12,6
+consulting,12,7
+withdrawal,12,2
+nursing school,12,3
+elevation,12,7
+group purchasing,12,3
+sheltering,12,8
+intensive care unit,12,1
+delivery methods,12,4
+documentation,12,2
+disinfectant,11,9
+bypass,11,5
+viral therapy,11,4
+aspiration,11,3
+prescription,11,7
+airway management,11,5
+healthcare services,11,5
+follow-up,11,7
+scheduling,11,8
+packing,11,9
+admitting,11,4
+tertiary care,10,3
+augmentation,10,1
+care continuum,10,2
+homeless shelter,10,4
+fluid mgmt,10,3
+ga,10,9
+fluids,10,4
+thyroidectomy,10,2
+placements,10,8
+placement,10,7
+cannulation,10,5
+stress management,10,5
+maternity care,10,2
+drug therapy,10,8
+standards of care,10,1
+intubations,10,4
+immunizations,10,4
+examination,10,7
+health care system,10,9
+skilled nursing facility,10,1
+"school, nursing",10,1
+investigations,10,5
+relaxation technique,10,2
+public health service,10,5
+emergency visits,10,3
+laboratories,9,5
+counseling,9,6
+emergency care,9,7
+hospitalisation,9,2
+vitamin d supplementation,9,2
+newborn,9,2
+lithotripsy,9,3
+reminded,9,4
+outpatient treatment,9,3
+outpatient clinics,9,3
+therapeutic touch,9,2
+brushing,9,3
+respirator,9,4
+pretest,9,3
+surg,9,5
+coronary revascularization,9,4
+patient-centered care,9,1
+treatment guidelines,9,4
+physician support,9,2
+flooding,9,3
+code status,9,1
+dental,9,4
+antidepressant therapy,9,1
+immunisation,9,2
+anesthesia analgesia,8,2
+orthopedic procedure,8,2
+chemotherapy,8,2
+exposure notification,8,7
+weighing,8,4
+health organizations,8,5
+field hospital,8,4
+vaccinations,8,8
+long term care,8,7
+quality of care,8,1
+patient safety,8,6
+brace,8,6
+microsurgery,8,8
+dental surgery,8,8
+rhinoplasty,8,8
+health care team,8,2
+immunization,8,2
+coronary artery bypass grafting,8,4
+anaesthesia,8,4
+follow-up care,8,1
+office visits,8,4
+general hospital,8,3
+first line therapy,8,1
+disease management,8,3
+counseling patients,8,3
+treated by,8,2
+fleming,8,2
+orthopedic procedures,8,2
+hospital discharge,8,2
+social network analysis,8,2
+reassuring,8,4
+cell therapy,8,2
+breathing treatment,8,3
+releases,7,6
+trach,7,4
+patient monitoring,7,5
+shoulder arthroplasty,7,1
+neuroradiology,7,3
+evaluation and management,7,4
+blood transfusions,7,4
+dissection,7,3
+peep,7,5
+respiratory therapy,7,2
+harvest,7,3
+miles,7,3
+hotline,7,6
+anchored,7,1
+physical exam,7,4
+advance care planning,7,4
+acupuncture,7,4
+physician services,7,3
+gatekeeping,7,1
+hotlines,7,2
+home health,7,3
+reminding,7,3
+surgical drainage,7,1
+cardiac care,7,2
+hospital closures,7,1
+prone position,7,3
+interventional procedures,7,1
+overlap,6,3
+evaluated,6,4
+emdr,6,3
+plastic surgery,6,3
+primary care clinic,6,2
+health centre,6,2
+transfusions,6,3
+calming,6,5
+"industry, healthcare",6,2
+medical therapy,6,2
+delivery of healthcare,6,2
+decontamination,6,4
+public health surveillance,6,2
+intake,6,3
+toilet,6,6
+arterial grafting for coronary artery bypass,6,2
+bypass grafting,6,2
+childrens health,6,1
+prevention measures,6,3
+cardiovascular perfusion,6,1
+outpatient consultation,6,2
+screening tests,6,2
+laparoscopic cholecystectomy,6,2
+reconstruction,6,3
+health technologies,6,2
+plasma transfusion,6,1
+cold turkey,6,1
+hospital units,6,2
+med schools,6,4
+treatment after,6,1
+combination therapy,6,1
+teletherapy,5,5
+pharmaceutical company,5,4
+pain management,5,1
+care setting,5,2
+cardiac transplant,5,1
+quarantines,5,3
+screening test,5,1
+atherectomy,5,4
+population health,5,4
+supervision,5,3
+adult care,5,2
+antimicrobial stewardship,5,1
+care social,5,1
+clinical examination,5,2
+test:,5,2
+clinical examinations,5,2
+surgical procedures,5,2
+injections,5,3
+hospices,5,1
+contraception,5,4
+personal safety,5,3
+hypertension management,5,1
+immunosuppression,5,4
+patient preparation,5,1
+coronary bypass,5,1
+bypass graft,5,1
+carotid endarterectomy,5,2
+nicu,5,3
+sling,5,1
+support groups,5,3
+androgen deprivation therapy,5,3
+academic medical center,5,2
+reconstructions,5,1
+healthcare team,5,4
+health management,5,4
+private hospitals,5,3
+cardiac catheterization laboratory,5,2
+general treatment,5,1
+face surgery,5,1
+health technology,5,2
+family medicine clinic,5,1
+medical clinic,5,1
+healthcare organization,5,1
+point of care,5,2
+first aid,4,3
+counselling,4,2
+organ donation,4,2
+sterilization,4,2
+trauma centre,4,1
+cosmetic,4,2
+gastrectomy,4,1
+elder care,4,2
+attachment,4,4
+reassure patients and families,4,1
+clinics and hospitals,4,1
+care after,4,2
+dispatch,4,3
+clinical nursing,4,2
+health service,4,2
+extubate,4,3
+health information,4,3
+emergency rooms,4,2
+tapering,4,1
+general anesthesia,4,1
+injury prevention,4,2
+fusion,4,4
+charities,4,2
+patient advocacy,4,2
+physiotherapy,4,2
+disciplines,4,3
+healthcare facility,4,2
+reperfusion,4,2
+charity,4,3
+primary healthcare,4,1
+revise,4,3
+code blue,4,2
+patient encounter,4,3
+triaging,4,3
+dark room,4,1
+registering,4,2
+morning report,4,3
+fetal,4,3
+dialysis center,4,2
+low carbohydrate diets,4,1
+referral,4,3
+consulted,4,2
+drain,4,1
+after treatment,4,1
+labor and delivery,3,1
+crushed,3,3
+puncture,3,2
+breathing exercises,3,3
+clinical interview,3,1
+ablation,3,2
+inserted,3,3
+patient repositioning,3,1
+national library of medicine,3,2
+vats,3,2
+anchor,3,3
+of prescription,3,1
+solid organ transplant,3,2
+health care rationing,3,1
+prophylactic treatment,3,2
+homeopathy,3,3
+problem:,3,3
+bath,3,2
+healthcare communication,3,1
+ross,3,2
+prenatal care,3,2
+weighting,3,2
+savage,3,2
+roche,3,2
+monitoring patients,3,2
+healthcare industry,3,3
+treadmill,3,2
+shave,3,2
+overlapped,3,1
+dilate,3,1
+typing,3,2
+telemetry unit,3,1
+office visit,3,3
+self monitoring,3,1
+campbell,3,1
+infectious disease clinic,3,1
+clinic hospital,3,1
+dissections,3,1
+symptom management,3,1
+safety net hospitals,3,1
+cardiac pacing,3,1
+urgent cares,3,1
+administering,3,3
+antiviral treatment,3,3
+withholding treatment,3,1
+ultraviolet light,3,2
+pharmaceutical industry,3,2
+advanced trauma life support,3,2
+kidney transplant,3,3
+precision medicine,3,2
+emergency procedure,3,1
+discharge to home,3,1
+radiotherapy,3,1
+hms,3,1
+community health centers,3,1
+hospital visits,3,1
+booster,3,1
+en masse,3,3
+spinal anaesthesia,3,2
+inpatient care,3,2
+bypass surgery,3,1
+shock management,3,1
+coronary care unit,3,1
+assessment of a patient,3,1
+physician offices,3,3
+lengthening,3,1
+liver transplant,3,1
+brain stimulation,3,1
+cancer therapy,3,3
+photographs,3,1
+blood donations,3,1
+team meeting,3,1
+insert,3,2
+boosters,3,2
+referral to,3,2
+denervation,3,3
+atriotomy,3,1
+shunting,3,1
+native american,3,3
+lung transplants,3,1
+exercise prescription,3,1
+transplantation,3,1
+dvt prophylaxis,3,2
+patient navigation,3,2
+childbirth,3,1
+physical examination,3,2
+informing,3,1
+hospice care,3,1
+home care,3,2
+decompression,3,1
+common procedures,3,1
+clipping,3,1
+maintain a healthy diet,3,2
+public hospital,3,1
+montreal cognitive assessment,3,1
+care communication,3,1
+early intervention,2,2
+long-term care facilities,2,2
+trauma icu,2,1
+patients stay,2,2
+cardiac assessment,2,2
+cosmetic surgery,2,1
+ablations,2,1
+evaluations,2,2
+percutaneous coronary interventions,2,2
+major surgeries,2,2
+joint replacements,2,2
+of health care delivery,2,1
+nursing care,2,2
+psychological support,2,1
+treatment protocols,2,1
+heart surgery,2,1
+capacity building,2,1
+health facilities,2,1
+bedside technology,2,1
+disease prevention,2,1
+control bleeding,2,2
+clinic visits,2,2
+code team,2,2
+case conference,2,1
+wear a face mask,2,2
+food and drug administration,2,2
+universal precautions,2,1
+pre-med,2,2
+home health care,2,2
+healthcare service,2,1
+cardiac procedures,2,1
+advices,2,1
+dialysis service,2,1
+long-term care facility,2,2
+retrieval,2,2
+filtration,2,2
+output,2,2
+eligibility,2,2
+red cross,2,2
+hemodynamic monitoring,2,1
+birthing,2,2
+graded exercise therapy,2,2
+emergency appointment,2,1
+house calls,2,2
+on oxygen,2,2
+influenza vaccination,2,1
+transfusion,2,2
+blood donation,2,2
+outpatient care,2,2
+notifications,2,1
+formula,2,2
+department of health and human services,2,1
+hospital department,2,1
+extubations,2,2
+notification,2,1
+healthcare delivery,2,2
+weighted,2,1
+drugstore,2,1
+manipulation,2,2
+care protocols,2,1
+heart procedures,2,2
+cardiovascular procedures,2,2
+state hospitals,2,1
+spacer,2,1
+ventilator management,2,1
+contact precautions,2,1
+valsalva,2,2
+wellness programs,2,1
+medical centers,2,1
+replacements,2,2
+d i,2,2
+paediatric surveillance,2,1
+integrated services,2,1
+abortions,2,2
+brachytherapy,2,1
+psychology biofeedback,2,1
+obstetrical care,2,1
+peer review process,2,2
+adjunctive therapy,2,1
+chronic care,2,1
+care management,2,1
+mobilizations,2,1
+teleradiology,2,1
+desi,2,1
+walk-in clinic,2,1
+tucking,2,2
+barrier method,2,2
+peg,2,1
+oxygen therapy,2,2
+osteoporosis management,2,1
+trimming,2,2
+secondary care,2,1
+morning reports,2,2
+c-section,2,1
+healthcare activity,2,1
+grinding,2,2
+continuity of care,2,2
+colorectal surgery,2,1
+sauna,2,2
+infusions,2,2
+orthopaedic examination,2,1
+cancer therapies,2,1
+dose reduced,2,2
+pediatric unit,2,1
+psychological care,2,1
+salvage,2,1
+custom fit,2,1
+ligation,2,1
+health communication,1,1
+assist control,1,1
+brain surgery,1,1
+neoadjuvant,1,1
+pierced,1,1
+distribution center,1,1
+obstetric care,1,1
+heart transplants,1,1
+drug companies,1,1
+foot surgery,1,1
+verbal,1,1
+stimulation,1,1
+medicine shows,1,1
+abrasions,1,1
+first-line treatment,1,1
+exploration,1,1
+clamping,1,1
+haart,1,1
+population health management,1,1
+cutter,1,1
+open heart surgery,1,1
+oral exam,1,1
+emotional support,1,1
+substance abuse services,1,1
+internal medicine clinic,1,1
+hospitalisations,1,1
+health care facilities,1,1
+defibrillation,1,1
+"unit, hospital",1,1
+mental health services,1,1
+unnecessary procedures,1,1
+rapid response team,1,1
+county hospitals,1,1
+orthopedic surgery,1,1
+assisted breathing,1,1
+anchoring,1,1
+pharmacy school,1,1
+perinatal care,1,1
+home visits,1,1
+mimics,1,1
+medical colleges,1,1
+manual resuscitation,1,1
+therapeutic interventions,1,1
+public health practices,1,1
+hemodialysis,1,1
+neurological care,1,1
+homoeopathy,1,1
+group therapy,1,1
+baths,1,1
+nursing skill,1,1
+liver transplants,1,1
+cardiovascular surgery,1,1
+laparotomy,1,1
+self-management,1,1
+traction,1,1
+telerehabilitation,1,1
+ballooning,1,1
+readmission,1,1
+risk management,1,1
+supporting family,1,1
+vitamin d supplements,1,1
+interdisciplinary collaboration,1,1
+experimental therapies,1,1
+pneumococcal vaccination,1,1
+health care services,1,1
+organ harvesting,1,1
+inoculation,1,1
+foot care,1,1
+steroid treatment,1,1
+paho,1,1
+renal replacement,1,1
+medical facility,1,1
+monitor vital signs,1,1
+leg amputation,1,1
+urgent care clinics,1,1
+medication prescription,1,1
+blood bank,1,1
+coronary artery bypass graft surgery,1,1
+taking temperatures,1,1
+outpatient services,1,1
+incubator,1,1
+abstinence,1,1
+hiv prevention,1,1
+pharmacotherapy,1,1
+hospital er,1,1
+healthcare teams,1,1
+healthcare quality,1,1
+cardiac catheterisation,1,1
+genentech,1,1
+national health service,1,1
+supply chain management,1,1
+crisis management,1,1
+patient transport,1,1
+open cholecystectomy,1,1
+cholecystectomies,1,1
+major surgery,1,1
+anti-coagulants,1,1
+social services,1,1
+clinical assessment,1,1
+balance training,1,1
+management treatment,1,1
+motivational interviewing,1,1
+treatment regimen,1,1
+investigational,1,1
+coronary revascularisation,1,1
+decontaminate,1,1
+notify,1,1
+octapharma,1,1
+public health services,1,1
+tapered,1,1
+on warfarin,1,1
+hospital administration,1,1
+soak,1,1
+managing device,1,1
+surgical wound classification,1,1
+appendectomy,1,1
+patient centered care,1,1
+indian health service,1,1
+treatment facility,1,1
+telepathology,1,1
+medical countermeasures,1,1
+outpatient service,1,1
+formulary,1,1
+self management,1,1
+acceptance and commitment therapy,1,1
+immunosuppressive therapies,1,1
+family planning,1,1
+public hospitals,1,1
+airway pressure release ventilation,1,1
+trauma centers,1,1
+social welfare,1,1
+isolation precautions,1,1
+bracing,1,1
+blood therapy,1,1
+cardiac catheterization procedures,1,1
+douche,1,1
+herbal medicine,1,1
+grind,1,1
+drainage,1,1
+national institute of allergy and infectious diseases,1,1
+physical therapy,1,1
+embolization,1,1
+national center for advancing translational sciences,1,1
+assisted living,1,1
+provision of care,1,1
+abortion,1,1
+primary prevention,1,1
+coronary atherectomy,1,1
+reapplication,1,1
+pediatric surgery,1,1
+grading system,1,1
+cancer surgery,1,1
+hospital service,1,1
+psychiatric care,1,1
+elderly home,1,1
+care provision,1,1
+primary care nursing,1,1
+chemoprophylaxis,1,1
+kramer,1,1
+manipulate,1,1
+catheterization,1,1
+suction,1,1
+locally advanced,1,1
+teaching patient,1,1
+patient visit,1,1
+amputation,1,1
+medical services,1,1
+breast surgery,1,1
+support group,1,1
+county hospital,1,1
+care goal,1,1
+removal techniques,1,1
+natural remedies,1,1
+taper,1,1
+hypertension clinic,1,1
+hemodialysis unit,1,1
+breathing exercise,1,1
+coronary artery bypass surgery,1,1
+field hospitals,1,1
+chest compressions,1,1
+antiangiogenesis,1,1
+medical offices,1,1
+assisting,1,1
+neurology department,1,1
+university medical center,1,1
+dental procedure,1,1
+university hospitals,1,1
+other care,1,1
+surgical removal,1,1
+history taking,1,1
+pain control,1,1
+eldercare,1,1
+"systems, health care",1,1
+relaxation exercise,1,1
+quality healthcare,1,1
+endotracheal intubation,1,1
+anesthesia for,1,1
+ventilation measurements,1,1
+recommendation to,1,1
+paediatric care,1,1
+infirmary,1,1
+banding,1,1
+checkups,1,1
+shunted,1,1
+talk therapy,1,1
+wound care,1,1
+stem cell transplant,1,1
+enhancement,1,1
+doctor's office,1,1
+water births,1,1
+cauterized,1,1
+specialist referral,1,1
+pre-exposure prophylaxis (prep),1,1
+homeopathic medicine,1,1
+invasive mechanical ventilation,1,1
+safety glasses,1,1
+activities:,1,1
+antiplatelet therapy,1,1
+nhs trust,1,1
+post exposure prophylaxis,1,1
+child health,1,1
+o2 therapy,1,1
